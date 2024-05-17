@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @didotharyo
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning javascript + ajax + API
+- 🌱 I’m currently learning javascript + jQuery
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 DM me on instagram
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Actually i'm newbie on this platform
 
 <!---
 didotharyo/didotharyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
